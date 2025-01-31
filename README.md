@@ -32,5 +32,5 @@ I'm actively working on **mastering advanced MERN stack concepts** and exploring
 If you're looking for a dedicated and motivated developer who's passionate about creating innovative solutions, I would love to hear from you!
 
 You can reach out to me via:
-- LinkedIn: [Your LinkedIn Profile]([link](https://www.linkedin.com/in/mahendra-nagpure/))
+- LinkedIn: [https://www.linkedin.com/in/mahendra-nagpure/)]
 - Email: [mahendranagpure909@gmail.com]
